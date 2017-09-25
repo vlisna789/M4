@@ -7,12 +7,12 @@
         android:id="@+id/registerMain"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Login"
+        android:text="Register"
         android:layout_weight="0.03" />
     <Button
         android:id="@+id/loginMain"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:text="Cancel"
+        android:text="Login"
         android:layout_weight="0.03" />
 </LinearLayout>

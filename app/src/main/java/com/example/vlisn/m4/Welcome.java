@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 
 /**
  * Created by vlisn on 9/24/2017.
@@ -14,7 +13,7 @@ import android.widget.EditText;
 public class Welcome extends AppCompatActivity implements View.OnClickListener {
     Button logoutB;
 
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.welcome);
 

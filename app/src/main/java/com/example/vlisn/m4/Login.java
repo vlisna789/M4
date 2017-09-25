@@ -19,7 +19,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
     Button loginB, cancelB;
     EditText etUsername,etPassword;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_main);
 
@@ -31,8 +31,8 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
 
     }
 
-    public void onClick(View v) {
-        switch(v.getId()) {
+            public void onClick(View v) {
+                switch(v.getId()) {
             case R.id.loginB:
                 if((etUsername.equals("user")) && etPassword.equals("pass")) {
                     startActivity(new Intent(this, Welcome.class));
