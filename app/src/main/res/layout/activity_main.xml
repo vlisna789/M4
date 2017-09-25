@@ -8,11 +8,15 @@
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:text="Register"
-        android:layout_weight="0.03" />
+        android:layout_weight="0.03"
+        android:onClick="displayRegistration"
+        />
     <Button
         android:id="@+id/loginMain"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:text="Login"
-        android:layout_weight="0.03" />
+        android:layout_weight="0.03"
+        android:onClick="displayLogin"
+        />
 </LinearLayout>
