@@ -1,0 +1,7 @@
+#Sun Sep 17 12:53:59 EDT 2017
+base.0=C\:\\Users\\Divya\\Downloads\\Lab32\\Lab32\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ac3a11ebd97c0bb7bcc573d1fb745d205d88a7d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Divya\\Downloads\\Lab32\\Lab32\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db744076a1f0d18e6023dedd2e5e7d7dcbc1e9a0\\classes.dex
+base.1=C\:\\Users\\Divya\\Downloads\\Lab32\\Lab32\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_db744076a1f0d18e6023dedd2e5e7d7dcbc1e9a0
+file.0=C\:\\Users\\Divya\\Downloads\\Lab32\\Lab32\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0ac3a11ebd97c0bb7bcc573d1fb745d205d88a7d\\classes.dex

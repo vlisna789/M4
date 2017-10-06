@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Divya\cs2340\M4\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Divya\cs2340\M4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_668cf6eac9e4fa5e9ee41fa9f027b6e20db86a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Divya\cs2340\M4\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fb4c2fac0f89b86a4ca3722f5490f54c3a6c45e2">
+        <dex dex="C:\Users\Divya\cs2340\M4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bb038cd21b9dec82ff66cca3dfbe81e331f82835\classes.dex" />
+    </item>
+
+</items>

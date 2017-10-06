@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "946609931246",
+    "firebase_url": "https://teamq-m5.firebaseio.com",
+    "project_id": "teamq-m5",
+    "storage_bucket": "teamq-m5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946609931246:android:9ac8387f4bebfde0",
+        "android_client_info": {
+          "package_name": "com.example.vlisn.m4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946609931246-dt39r1kkitjf1b6e64mstvimmods3sjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2iVQ_dE4t7Ah3ewrLrHIMT2fwfXeAvzI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
